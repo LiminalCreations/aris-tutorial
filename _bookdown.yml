@@ -4,7 +4,13 @@ language:
     chapter_name: "Chapter "
 rmd_files: [
   "index.Rmd",
-  "setup.Rmd",
-  "write.Rmd"]
+  "overview.Rmd",
+  "outputs.Rmd",
+  "timeline.Rmd",
+  "challenges.Rmd",
+  "profiles.Rmd",
+  "biosketches.Rmd",
+  "references.Rmd"
+  ]
 delete_merged_file: true 
 output_dir: "docs"
