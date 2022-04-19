@@ -1,5 +1,3 @@
-# bookdown-tutorial
-Mini tutorial for bookdown 
+# ARIS Project Pilot (Neeley & Guerrero, 2022)
 
-
-afdafadjl
+A bookdown version of our proposal 
