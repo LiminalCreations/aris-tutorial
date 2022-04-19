@@ -15,4 +15,4 @@ bookdown::gitbook:
 bookdown::pdf_book:
  includes:
    in_header: _preamble.tex
- latex_engine: tinytext
+ latex_engine: xelatex
