@@ -7,7 +7,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Engage PEOPLE</a></li>
+        <li><a href="./">Engaging PEOPLE</a></li>
       after: |
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
     edit: https://github.com/LiminalCreations/aris-tutorial/%s
