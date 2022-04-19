@@ -14,5 +14,5 @@ bookdown::gitbook:
     download: ["pdf"]
 bookdown::pdf_book:
  includes:
-   in_header: _preamble.tex
+   in_header: preamble.tex
  latex_engine: xelatex
