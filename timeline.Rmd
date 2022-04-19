@@ -1,3 +1,10 @@
 # Timeline {#timeline}
 
-Testing timeline
+* **JAN-22**: Deploying the project’s communication infrastructure: networks of collaborations, GitHub repository, channels for feedback and communication, etc.
+* **MAR-22**: Chapters 1 and 2 drafts and internal feedback cycle
+* **MAY-22**: Chapters 3 and 4 drafts and internal feedback cycle
+* **JUL-22**: Chapters 5 and 6 drafts and internal feedback cycle
+* **SEP-22**: Friendly review by external collaborators; submission to external reviewers
+* **NOV-22**: Incorporating external feedback - I
+* **JAN-23**: Incorporating external feedback - II
+* **APR-23**: Presentation of final product
