@@ -1,3 +1,13 @@
 # Challenges {#challenges}
 
-Testing challenges
+We anticipate challenges in the three following domains:
+
+* **1.Creation**. We plan to create the $P^3$ Framework as an Rmarkdown project that will be stored in GitHub and published with [BOOKDOWN](https://bookdown.org/). While Guerrero has more recent experience with these tools, Neeley hasn’t routinely worked with raw code since grad school. Both of us are also aware that the necessary allocation of our time to complete this project far exceeds the direct value of the award, so we must subsidize this effort with other income sources. As a side project, we know that this effort is necessarily subject to prioritization that can slow our progress.
+
+* **2.Curation**. An ongoing challenge for all projects in the broader impacts space is simply tracking the salient resources and initiatives in the space. Finding everything is difficult enough, but cataloguing is often an unappreciated hazard. In a relational map of the conceptual space, we know that there are countless many-to-many relationships, which complicate simple navigation.
+
+* **3.Distribution**. One of the most common pitfalls of work like this is failure to launch. We have already identified the creation of the $P^3$ Framework as a heavy lift, but publicizing and socializing a tool can take just as much if not more effort. 
+
+Our plans for overcoming these challenges depend on our access to the support and expertise of the ARIS community, as well as our large networks of mentors and colleagues. We apply this same commitment to collaboration in distributing the $P^3$ Framework as a Github repository. By applying an open science approach to our own work, we will be able to learn and iterate more rapidly (challenge 1), build collaboratively upon the large body of knowledge that already exists (challenge 2), and to meet our audiences where they are to minimize the cost and effort of adding the $P^3$ Framework to their standard operating procedures (challenge 3). 
+
+Finally, we have the exciting opportunity to use the daily operations of Liminal Creations LLC as a sandbox for deploying the $P^3$ Framework. Liminal is a small but rapidly growing consulting firm focused on science communication and sensemaking. Groundtesting the $P^3$ Framework at Liminal will help to surface the kinds of difficulties that only arise from daily use of a tool in real-world conditions.
