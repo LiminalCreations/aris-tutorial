@@ -5,4 +5,10 @@ timeline
 challenges
 profiles
 biosketches
+biographical-sketch
+francisco-j.-guerrero---researcher-and-science-communicator
+personal-statement
+biographical-sketch-1
+liz-neeley---founder-and-ceo-of-liminal-creations-llc
+personal-statement-1
 references
