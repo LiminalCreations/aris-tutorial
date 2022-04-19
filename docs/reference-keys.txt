@@ -12,4 +12,3 @@ biographical-sketch-1
 liz-neeley---founder-and-ceo-of-liminal-creations-llc
 personal-statement-1
 references
-output-bookdowngitbook

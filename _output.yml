@@ -10,7 +10,7 @@ bookdown::gitbook:
         <li><a href="./">Engage PEOPLE</a></li>
       after: |
         <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/LiminalCreations/aris-tutorial
+    edit: https://github.com/LiminalCreations/aris-tutorial/%s
     download: ["pdf"]
 #bookdown::pdf_book:
 #  includes:
